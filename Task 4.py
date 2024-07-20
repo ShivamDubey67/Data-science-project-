@@ -14,7 +14,7 @@ import seaborn as sns
 # In[2]:
 
 
-train=pd.read_csv(r'C:\Users\naveen chauhan\Desktop\mldata\mlp\Big Mart Sale Prediction\Train.csv')
+train=pd.read_csv(r'C:\Users\shivam dubey\Desktop\mldata\mlp\Big Mart Sale Prediction\Train.csv')
 
 
 # In[3]:
