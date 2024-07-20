@@ -32,7 +32,7 @@ train.shape
 # In[5]:
 
 
-test=pd.read_csv(r'C:\Users\naveen chauhan\Desktop\mldata\mlp\Big Mart Sale Prediction\Test.csv')
+test=pd.read_csv(r'C:\Users\shivam dubey\Desktop\mldata\mlp\Big Mart Sale Prediction\Test.csv')
 
 
 # In[6]:
